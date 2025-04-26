@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+ENV/
+env/
+.venv
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Output directories
+output/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+
+# Large data files (if applicable)
+data/raw/large_files/

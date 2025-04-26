@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+rasterio
+geopandas
+folium
+jupyter
+flask
+xgboost
+earthpy
+shapely
+plotly
+dash
+geopy
+opencv-python
