@@ -31,4 +31,10 @@ data/raw/large_files/
 
 # Exclude large satellite data files
 data/raw/S2A_MSIL1C_*.SAFE/
-data/raw/*.SAFE/
+data/raw/*.SAFE/data/raw/
+*.tif
+*.jp2
+*.h5
+*.bin
+*.model
+*.pkl
