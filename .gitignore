@@ -28,3 +28,7 @@ output/
 
 # Large data files (if applicable)
 data/raw/large_files/
+
+# Exclude large satellite data files
+data/raw/S2A_MSIL1C_*.SAFE/
+data/raw/*.SAFE/
